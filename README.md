@@ -3,12 +3,12 @@
 This repository contains a project aimed at predicting and classifying droughts in the US region. The project utilizes machine learning techniques to analyze historical weather data and build models for drought prediction. The code and resources provided here can be used to understand the process of predicting and classifying droughts and can serve as a starting point for similar projects or research.
 
 ## Table of Contents
-- [Introduction](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/edit/main/README.md#introduction)
-- [Literature](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/edit/main/README.md#literature)
-- [Data](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/edit/main/README.md#data)
-- [Methodology]()
-- [Results]()
-- [References]()
+- [Introduction](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#introduction)
+- [Literature](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#literature)
+- [Data](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#data)
+- [Methodology](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#methodology)
+- [Results](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#results)
+- [References](https://github.com/ayush26sharma/Predicting-and-Classifying-Droughts-in-US-Region/tree/main#references)
 
 ## Introduction
 Droughts are a recurring natural phenomenon that can significantly impact agriculture, water resources, and ecosystems. Predicting and classifying droughts can help governments, farmers, and other stakeholders proactively mitigate the potential consequences.

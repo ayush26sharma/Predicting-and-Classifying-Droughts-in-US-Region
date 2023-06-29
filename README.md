@@ -1,5 +1,11 @@
 # Predicting and Classifying Droughts in US Region
 
+Contributors of the project are: 
+- Ayush Sharma
+- Yash Agrawal
+- Ujjwal Rastogi
+- Mortala Gautam Reddy
+
 This repository contains a project aimed at predicting and classifying droughts in the US region. The project utilizes machine learning techniques to analyze historical weather data and build models for drought prediction. The code and resources provided here can be used to understand the process of predicting and classifying droughts and can serve as a starting point for similar projects or research.
 
 ## Table of Contents
